@@ -1,3 +1,20 @@
 title: Fred Rinaldo
-description: Business Analytics graduate and data professional with experience working in NDIS finance, reporting, and business intelligence. My background combines operational business knowledge with analytical skills, allowing me to translate complex data into practical insights that support decision-making.
+description: Business Analytics | SQL | Power BI | Data Analysis
+author: Fred Rinaldo
+
 remote_theme: "jekyll/minima"
+
+minima:
+  skin: auto
+
+header_pages:
+  - index.md
+
+show_excerpts: false
+
+github_username: fredr11
+
+plugins:
+  - jekyll-feed
+  
+
