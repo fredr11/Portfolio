@@ -1,7 +1,7 @@
-title: Fred Rinaldo - Data Analytics Portfolio
+title: Fred Rinaldo
 description: Business Analytics | SQL | Power BI | Data Analysis
 
-remote_theme: "jekyll/minima"
+theme: minima
 
 minima:
   skin: auto
@@ -15,5 +15,3 @@ github_username: fredr11
 
 plugins:
   - jekyll-feed
-  
-
