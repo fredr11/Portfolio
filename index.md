@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Portfolio
 ---
 
 # Fred Rinaldo
@@ -11,39 +10,13 @@ My background combines business operations, finance, and analytics, enabling me 
 
 ---
 
-## Technical Skills
-
-### Analytics & BI
-- SQL
-- Power BI
-- DAX
-- Tableau
-- Data Visualization
-- KPI Development
-
-### Data Engineering
-- ETL
-- Data Cleaning
-- Data Transformation
-- Data Validation
-- Data Modeling
-
-### Programming
-- SQL Server
-- Azure SQL
-- Python
-- Excel
-- VBA
-
----
-
 # Featured Projects
 
 ---
 
 ## 🏥 NDIS Demand, Funding & Service Planning Analytics
 
-**SQL • Power BI • DAX • Data Modeling • ETL**
+**`SQL` • `Power BI` • `DAX` • `Data Modeling` • `ETL` • `Business Intelligence`**
 
 Developed a SQL and Power BI analytics solution that identified regions where NDIS participant growth outpaced population growth, highlighting future service demand hotspots.
 
@@ -54,10 +27,6 @@ Developed a SQL and Power BI analytics solution that identified regions where ND
 - Created interactive Power BI dashboards
 - Analyzed participant growth, funding allocation, and geographic demand
 - Generated insights to support service planning and resource allocation
-
-### Skills Demonstrated
-
-`SQL` `Power BI` `DAX` `Data Modeling` `ETL` `Business Intelligence`
 
 🔗 **Repository:** https://github.com/fredr11/NDIS-Project_SQL-PowerBI
 
@@ -103,7 +72,7 @@ Developed predictive models to identify high-risk road segments and support proa
 
 `Python` `Machine Learning` `Predictive Analytics` `Statistics` `Data Science`
 
-🔗 **Repository:** REPOSITORY_LINK
+🔗 **Repository:** https://github.com/fredr11/Red_Zone_Prediction_Python
 
 ---
 
@@ -125,7 +94,7 @@ Explored mortgage portfolio performance, customer behaviour, and lending trends 
 
 `SQL` `Power BI` `Financial Analytics` `Data Visualization` `Business Intelligence`
 
-🔗 **Repository:** REPOSITORY_LINK
+🔗 **Repository:** https://github.com/fredr11/Mortgage_Customer_Analytics_Tableau
 
 ---
 
@@ -163,4 +132,4 @@ North Metropolitan TAFE
 https://github.com/fredr11
 
 ### LinkedIn
-YOUR_LINKEDIN_URL
+https://www.linkedin.com/in/fred-rinaldo/
